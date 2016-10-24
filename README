@@ -31,7 +31,7 @@ For the impatient
 =================
 
 To build and install Biopython, download and unzip the source code, go to this
-directory at the command line, and type::
+directory at the command line, and type:
 
     python setup.py build
     python setup.py test
